@@ -4,20 +4,20 @@ for i in range(0,11):
         print(i)
 
 #Even or Odd
-a=input("Enter a number: ")
+'''a=input("Enter a number: ")
 if int(a)%2==0:
     print("Given number is even")
 else:
-    print("Given number is odd")
+    print("Given number is odd")'''
 
 #Largest among four numbers
-List=[]
+'''List=[]
 for i in range (4):
     num=int(input("Enter a digit: "))
     List.append(num)
-print("The largest number is: ",max(List))
+print("The largest number is: ",max(List))'''
 
-a=int(input("Enter a number: "))
+'''a=int(input("Enter a number: "))
 b=int(input("Enter a number: "))
 c=int(input("Enter a number: "))
 d=int(input("Enter a number: "))
@@ -28,18 +28,18 @@ elif b>a and b>c and b>d:
 elif c>a and c>b and c>d:
     print(c," is greatest")
 else:
-    print(d," is greatest")
+    print(d," is greatest")'''
 
 #Area of a circle
-radius=float(input("Enter the radius of the circle: "))
+'''radius=float(input("Enter the radius of the circle: "))
 pi=3.14
 area=pi*(radius**2)
-print("The area of the circle is ",area)
+print("The area of the circle is ",area)'''
 
 #Swapping
-a=int(input("Enter a: "))
+'''a=int(input("Enter a: "))
 b=int(input("enter b: "))
 a,b=b,a
-print("After swapping: a=",a," b=",b)
+print("After swapping: a=",a," b=",b)'''
 
 
