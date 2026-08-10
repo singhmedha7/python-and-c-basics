@@ -37,9 +37,9 @@ area=pi*(radius**2)
 print("The area of the circle is ",area)
 
 #Swapping
-'''a=int(input("Enter a: "))
+a=int(input("Enter a: "))
 b=int(input("enter b: "))
 a,b=b,a
-print("After swapping: a=",a," b=",b)'''
+print("After swapping: a=",a," b=",b)
 
 
