@@ -1,7 +1,7 @@
 #Even numbers from 0 to 10
-'''for i in range(0,11):
+for i in range(0,11):
     if i%2==0:
-        print(i)'''
+        print(i)
 
 #Even or Odd
 '''a=input("Enter a number: ")
