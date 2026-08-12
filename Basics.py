@@ -17,7 +17,7 @@ for i in range (4):
     List.append(num)
 print("The largest number is: ",max(List))
 
-'''a=int(input("Enter a number: "))
+a=int(input("Enter a number: "))
 b=int(input("Enter a number: "))
 c=int(input("Enter a number: "))
 d=int(input("Enter a number: "))
@@ -28,7 +28,7 @@ elif b>a and b>c and b>d:
 elif c>a and c>b and c>d:
     print(c," is greatest")
 else:
-    print(d," is greatest")'''
+    print(d," is greatest")
 
 #Area of a circle
 '''radius=float(input("Enter the radius of the circle: "))
