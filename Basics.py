@@ -4,11 +4,11 @@ for i in range(0,11):
         print(i)
 
 #Even or Odd
-'''a=input("Enter a number: ")
+a=input("Enter a number: ")
 if int(a)%2==0:
     print("Given number is even")
 else:
-    print("Given number is odd")'''
+    print("Given number is odd")
 
 #Largest among four numbers
 '''List=[]
