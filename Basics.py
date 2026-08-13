@@ -11,11 +11,11 @@ else:
     print("Given number is odd")
 
 #Largest among four numbers
-'''List=[]
+List=[]
 for i in range (4):
     num=int(input("Enter a digit: "))
     List.append(num)
-print("The largest number is: ",max(List))'''
+print("The largest number is: ",max(List))
 
 '''a=int(input("Enter a number: "))
 b=int(input("Enter a number: "))
